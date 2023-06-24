@@ -1,0 +1,15 @@
+.header h1
+{
+  text-align: center;
+}
+
+.content
+{
+  padding-top: 30px;
+}
+
+.content p {
+ overflow: auto;
+}
+
+
