@@ -8,3 +8,8 @@
   color: var(--primary-color);
   text-decoration: underline;
 }
+
+.navbar-brand
+{
+  color: white;
+}

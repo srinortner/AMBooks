@@ -5,10 +5,15 @@
   margin: 0;
 }
 :root{
-  --primary-color:#a80c0c;
-  --secondary-color:#162328;
+  --primary-color:white;
+  --secondary-color:#4e4e4e;
+  --tertiary-color: #696969;
+  --background-color: #1c2a36;
+
 }
  body{
    height: 100vh;
    font-family: Arial, Helvetica, sans-serif;
+   background-color: var(--background-color);
+   color: var(--primary-color);
  }
